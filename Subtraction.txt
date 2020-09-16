@@ -1,0 +1,11 @@
+class Subtraction{
+
+public static void main(String []args){
+ public void sub(int a,int b){
+   System.out.println("Summation :"+(a-b));
+}
+public void sub(int a,float b){
+   System.out.println("Summation :"+(a-b));
+}
+
+}
