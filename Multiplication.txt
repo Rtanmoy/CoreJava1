@@ -1,0 +1,10 @@
+class Multiplication{
+
+public static void main(String []args){
+ public void mul(int a,int b){
+   System.out.println("Summation :"+(a*b));
+}
+public void mul(int a,float b){
+   System.out.println("Summation :"+(a*b));
+}
+}
